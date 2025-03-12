@@ -1,4 +1,4 @@
-Private Chat
+Private Chat（Developing）
 
 ![Private Chat Logo](https://via.placeholder.com/150.png?text=Private+Chat)  
 *A secure, simple, and private messaging app built with Flutter.*
